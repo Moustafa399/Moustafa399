@@ -2,15 +2,16 @@
 
 >                     🤖 Machine Learning Engineer · Generative AI · LLMs · Computer Vision · RAG Systems
 
+[![Email](https://img.shields.io/badge/Email-mostafatobgy2%40gmail.com-blue?style=flat&logo=gmail)](mailto:mostafatobgy2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Abd_El_Naby-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mostafa-abd-el-naby-11121019a)
+[![GitHub](https://img.shields.io/badge/GitHub-Moustafa399-black?style=flat&logo=github)](https://github.com/Moustafa399)
+
 
 ## 📝 About Me
 
 Machine Learning Engineer with a strong foundation in Computer Science and hands-on experience building **Generative AI** and **AI-driven solutions** from scratch to production. I specialize in designing and deploying AI-powered applications using Python — from fine-tuning LLMs to building multi-format RAG pipelines and real-time computer vision systems.
 
 - 🔭 Currently working at **AiTech** as an AI Engineer
-- 🌱 Deepening expertise in **LLM fine-tuning**, **AI Agents**, and **MLOps**
-- 💬 Ask me about **RAG pipelines**, **LangChain**, **YOLO**, or **LLM deployment**
-- 📫 Reach me at **mostafatobgy2@gmail.com**
 - 📍 Based in **Giza, Egypt**
 
 ---
@@ -122,14 +123,3 @@ Modern Academy For Computer Science, Cairo, Egypt *(2019 – 2023)*
 - 📖 Exploring advanced **AI Agents** and **multi-modal models**
 - 🤝 Open to collaborations on **Generative AI**, **NLP**, and **Computer Vision** projects
 
----
-
-## 📫 How to Reach Me
-
-[![Email](https://img.shields.io/badge/Email-mostafatobgy2%40gmail.com-blue?style=flat&logo=gmail)](mailto:mostafatobgy2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Abd_El_Naby-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mostafa-abd-el-naby-11121019a)
-[![GitHub](https://img.shields.io/badge/GitHub-Moustafa399-black?style=flat&logo=github)](https://github.com/Moustafa399)
-
----
-
-*Last updated: April 2026*
