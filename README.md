@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-mostafatobgy2%40gmail.com-blue?style=flat&logo=gmail)](mailto:mostafatobgy2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Abd_El_Naby-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mostafa-abd-el-naby-11121019a)
-[![GitHub](https://img.shields.io/badge/GitHub-Moustafa399-black?style=flat&logo=github)](https://github.com/Moustafa399)
+
 
 
 ## 📝 About Me
@@ -42,11 +42,7 @@ Machine Learning Engineer with a strong foundation in Computer Science and hands
 - Deep-dive **Exploratory Data Analysis** on global FIFA datasets — uncovered regional trends & confederation strength correlations
 - *Pandas · Seaborn · Matplotlib · Data Cleaning*
 
-### 🎓 University Admission Prediction — *Supervised Learning*
-- ML model predicting university admission probability with **90% accuracy**
-- Feature engineering, Confusion Matrix evaluation, and decision threshold optimization
 
----
 
 ## 🖥️ Tech Stack
 
@@ -64,7 +60,6 @@ Machine Learning Engineer with a strong foundation in Computer Science and hands
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -90,7 +85,6 @@ Machine Learning Engineer with a strong foundation in Computer Science and hands
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Databases**
@@ -122,4 +116,10 @@ Modern Academy For Computer Science, Cairo, Egypt *(2019 – 2023)*
 - 🔨 Building production-grade **LLM & RAG** applications
 - 📖 Exploring advanced **AI Agents** and **multi-modal models**
 - 🤝 Open to collaborations on **Generative AI**, **NLP**, and **Computer Vision** projects
+
+## 🧩 System Design Mindset
+- Designing production-ready AI systems (not just models)
+- Building modular pipelines: ingestion → retrieval → generation
+- Implementing evaluation, monitoring, and fallback strategies
+- Treating prompts as versioned components
 
