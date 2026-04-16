@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mostafa Abd EL Naby Awad
 
-> 🤖 Machine Learning Engineer · Generative AI · LLMs · Computer Vision · RAG Systems
+>                     🤖 Machine Learning Engineer · Generative AI · LLMs · Computer Vision · RAG Systems
 
----
 
 ## 📝 About Me
 
